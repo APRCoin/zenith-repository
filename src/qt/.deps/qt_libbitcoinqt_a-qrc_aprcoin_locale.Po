@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_aprcoin_locale.o: qt/qrc_aprcoin_locale.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
