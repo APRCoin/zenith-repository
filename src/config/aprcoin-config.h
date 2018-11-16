@@ -18,7 +18,7 @@
 #define CLIENT_VERSION_MAJOR 2
 
 /* Minor version */
-#define CLIENT_VERSION_MINOR 0
+#define CLIENT_VERSION_MINOR 1
 
 /* Build revision */
 #define CLIENT_VERSION_REVISION 0
@@ -271,7 +271,7 @@
 #define PACKAGE_NAME "APR Coin Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "APR Coin Core 2.0.0"
+#define PACKAGE_STRING "APR Coin Core 2.1.0"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "aprcoin"
@@ -280,7 +280,7 @@
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "2.0.0"
+#define PACKAGE_VERSION "2.1.0"
 
 /* Define to necessary symbol if this constant uses a non-standard name on
    your system. */
@@ -308,7 +308,7 @@
 #define USE_DBUS 1
 
 /* Define if QR support should be compiled in */
-#define USE_QRCODE 1
+/* #undef USE_QRCODE */
 
 /* UPnP support not compiled if undefined, otherwise value (0 or 1) determines
    default state */

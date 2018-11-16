@@ -30,7 +30,7 @@ if [ -e "$(which git 2>/dev/null)" -a "$(git rev-parse --is-inside-work-tree 2>/
 fi
 
 if [ -n "$DESC" ]; then
-    NEWINFO="#define BUILD_DESC \"$DESC\""
+    NEWINFO="#define BUILD_DESC \"2.0.1\""
 else
     NEWINFO="// No build information available"
 fi
