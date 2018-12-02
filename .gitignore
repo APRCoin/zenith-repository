@@ -1,4 +1,3 @@
-.gitignore
 *.sublime-project
 *.sublime-workspace
 todo.txt
@@ -86,7 +85,6 @@ src/qt/test/moc*.cpp
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
 aprcoin-qt
 Aprcoin-Qt.app
 
