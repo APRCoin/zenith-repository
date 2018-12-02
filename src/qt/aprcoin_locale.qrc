@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/aprcoin_bg.qm</file>
+        <file alias="ca">locale/aprcoin_ca.qm</file>
+        <file alias="cs">locale/aprcoin_cs.qm</file>
+        <file alias="da">locale/aprcoin_da.qm</file>
+        <file alias="de">locale/aprcoin_de.qm</file>
+        <file alias="en">locale/aprcoin_en.qm</file>
+        <file alias="en_US">locale/aprcoin_en_US.qm</file>
+        <file alias="es">locale/aprcoin_es.qm</file>
+        <file alias="fi">locale/aprcoin_fi.qm</file>
+        <file alias="fr_FR">locale/aprcoin_fr_FR.qm</file>
+        <file alias="it">locale/aprcoin_it.qm</file>
+        <file alias="ja">locale/aprcoin_ja.qm</file>
+        <file alias="ko_KR">locale/aprcoin_ko_KR.qm</file>
+        <file alias="nl">locale/aprcoin_nl.qm</file>
+        <file alias="pl">locale/aprcoin_pl.qm</file>
+        <file alias="pt">locale/aprcoin_pt.qm</file>
+        <file alias="pt_BR">locale/aprcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/aprcoin_ro_RO.qm</file>
+        <file alias="ru">locale/aprcoin_ru.qm</file>
+        <file alias="sk">locale/aprcoin_sk.qm</file>
+        <file alias="sv">locale/aprcoin_sv.qm</file>
+        <file alias="tr">locale/aprcoin_tr.qm</file>
+        <file alias="uk">locale/aprcoin_uk.qm</file>
+        <file alias="zh_CN">locale/aprcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/aprcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
