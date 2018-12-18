@@ -129,4 +129,5 @@ qa/pull-tester/test.*/*
 CMakeLists.txt
 cmake-build-debug
 
-/Wallet Direct Downloads
+/Logos
+/APR Coin Paper Wallet
