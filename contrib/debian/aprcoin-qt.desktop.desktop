@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AprCoin
+Comment=AprCoin P2P Cryptocurrency
+Exec=aprcoin-qt %u
+Terminal=false
+Type=Application
+Icon=aprcoin128
+MimeType=x-scheme-handler/aprcoin;
+Categories=Office;Finance;
+Name[en_US]=aprcoin-qt.desktop
